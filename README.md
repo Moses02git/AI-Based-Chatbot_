@@ -1,2 +1,3 @@
-# AI-Based-Chatbot_
-AI-Based Chatbot for Customer Support
+AI-Based-Chatbot-
+AI-Based Chatbot – Python, OpenAI API, Gradio
+
