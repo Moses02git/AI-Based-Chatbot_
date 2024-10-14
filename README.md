@@ -3,6 +3,7 @@ AI-Based Chatbot – Python, OpenAI API, Gradio Sep 2024
 
 Description:
 The **AI-Based Chatbot** is an innovative application designed to assist users with real estate investment and negotiation inquiries. Powered by the OpenAI API, this chatbot employs advanced Natural Language Processing (NLP) techniques to provide context-aware responses, enhancing the decision-making process for users in the real estate sector. The project utilizes Gradio to create a user-friendly interface that facilitates smooth interactions between users and the chatbot.
+![AI-Based Chatbot – Python, OpenAI API, Gradio image](https://github.com/user-attachments/assets/26f7e636-d478-4f08-bbc2-839858873ea1)
 
 Features:
 -AI-Powered Conversations: Utilizes the OpenAI API to generate intelligent responses tailored to real estate queries.
