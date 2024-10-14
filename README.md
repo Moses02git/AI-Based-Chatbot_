@@ -10,3 +10,10 @@ Features:
 -Interactive Web Interface: Built using the Gradio library, ensuring a seamless and engaging user experience.
 -Context-Aware Responses: Employs advanced NLP techniques to analyze user input and generate relevant responses.
 -Real-World Testing: The chatbot has been tested for functionality and responsiveness, ensuring reliability in providing effective decision support.
+
+Technologies Used:
+Programming Languages: Python
+Frameworks: Streamlit, Gradio
+APIs: OpenAI API
+Techniques: Natural Language Processing (NLP)
+Version Control: GitHub
